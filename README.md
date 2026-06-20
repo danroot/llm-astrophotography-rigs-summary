@@ -1,6 +1,6 @@
 # Using LLMs to Run Astrophotography Rigs
 
-Hobbyists and researchers actively use LLMs (Gemini, ChatGPT, Claude, etc.) to help run astrophotography rigs—from sequencing/troubleshooting to direct hardware control and full autonomous observation pipelines.
+**Yes.** Hobbyists and researchers actively use LLMs (Gemini, ChatGPT, Claude, etc.) to help run astrophotography rigs—from sequencing/troubleshooting to direct hardware control and full autonomous observation pipelines.
 
 ## Hobbyist examples
 
@@ -28,3 +28,9 @@ Many also use LLMs for target planning, equipment advice, and processing pipelin
 **Bottom line**: LLMs are already assisting or directly controlling rigs via software integration (NINA/ASCOM), scripting, and hardware bridges like LUNA/ESP32. Full agentic autonomy is emerging in both hobby and research settings.
 
 Check Cloudy Nights threads, LUNA GitHub (OnStepNinja/LUNA), and the StarWhisper paper (arXiv) for setups and details.
+
+## Sources
+
+- [Effective uses of AI and LLMs in astrophotography - Cloudy Nights forum](https://www.cloudynights.com/forums/topic/987582-effective-uses-of-ai-and-llms-in-astrophotography/)
+- [LUNA firmware: Control your telescope with Claude AI via ESP32 Wi-Fi bridge](https://github.com/OnStepNinja/LUNA) · [ScopeTrader coverage](https://scopetrader.com/using-claude-to-control-a-telescope-via-esp32/)
+- [StarWhisper Telescope: an AI framework for automating end-to-end astronomical observations (arXiv)](https://arxiv.org/abs/2412.06412)
