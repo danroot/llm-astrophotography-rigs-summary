@@ -1,6 +1,6 @@
 # Using LLMs to Run Astrophotography Rigs
 
-**Yes.** Hobbyists and researchers actively use LLMs (Gemini, ChatGPT, Claude, etc.) to help run astrophotography rigs—from sequencing/troubleshooting to direct hardware control and full autonomous observation pipelines.
+Hobbyists and researchers actively use LLMs (Gemini, ChatGPT, Claude, etc.) to help run astrophotography rigs—from sequencing/troubleshooting to direct hardware control and full autonomous observation pipelines.
 
 ## Hobbyist examples
 
